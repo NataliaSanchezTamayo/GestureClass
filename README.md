@@ -15,5 +15,6 @@ Images in pnm format. 6 hand postures (a, b, c, point, five, v), about 10 person
 To download only the files from ubuntu run:
 
 curl -o shp_marcel_test.train.gz https://raw.githubusercontent.com/NataliaSanchezTamayo/GestureClass/master/shp_marcel_train.raw.gz
+
 curl -o shp_marcel_test.tar.gz https://raw.githubusercontent.com/NataliaSanchezTamayo/GestureClass/master/shp_marcel_test.raw.gz
 
